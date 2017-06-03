@@ -11,7 +11,7 @@ dark_knight = media.Movie("The Dark Knight", "Batman vs Joker",
                           "https://a.ltrbxd.com/resized/sm/upload/78/y5/zg/ej/oefdD26aey8GPdx7Rm45PNncJdU-0-230-0-345-crop.jpg?k=582b0428f7",
                           "https://www.youtube.com/watch?v=_PZpmTj1Q8Q&ab_channel=WarnerBros.")
 
-my_name_is_khan = media.Movie("My Name is Khan", "All Muslims are not terrorists",
+my_name_is_khan = media.Movie("My Name is Khan", "All Muslims cannot be considered as terrorists",
                           "http://www.doobeedoobeedoo.info/wp-content/uploads/2010/01/OST-My-Name-Is-Khan-CD-cover.jpg",
                           "https://www.youtube.com/watch?v=_uNDm6YfN2k&ab_channel=obbmusic")
 
